@@ -1,0 +1,12 @@
+div {
+    font-size: 40px;
+    color: deepskyblue;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+img {
+    margin: 200px;
+    border: 200px;
+    box-sizing: border-box;
+}
